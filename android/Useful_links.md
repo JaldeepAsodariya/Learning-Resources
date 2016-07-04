@@ -50,6 +50,8 @@
 - [Butter Knife](http://jakewharton.github.io/butterknife/) - View "injection" library for Android.
 - [RoboGuice](https://github.com/roboguice/roboguice) - Dependency injection framework for Android.
 - [AndroidAnnotations](https://github.com/excilys/androidannotations) - Java annotations with dependency injection at compile time.
+- [SwissKnife](https://github.com/Arasthel/SwissKnife) - A multi-purpose library containing view injection and threading for Android using annotations.
+- [Transfuse](https://github.com/johncarl81/transfuse) - A Dependency Injection and Integration framework for Google Android.  
 
 ### Network
 - [OkHttp](https://github.com/square/okhttp) - An HTTP & HTTP/2 client for Android and Java applications by Square, Inc.
@@ -70,6 +72,9 @@
 - [Crashlytics](https://try.crashlytics.com/) with [Fabric kit](https://get.fabric.io/android) - A powerful crash reporting solution with statistics by Twitter
 - [Crittercism](https://www.apteligent.com/) - Crittercism aka Apteligent - A powerful tool for crash reporting, user flows and service monitoring
 - [ACRA](https://github.com/ACRA/acra) - ACRA is a library enabling Android Application to automatically post their crash reports to a GoogleDoc form.
+- [Firebase Analytics](https://firebase.google.com/docs/analytics/#key_functions) - Firebase Analytics is a free app measurement solution that provides insight on app usage and user engagement.
+
+
 
 ### Bluetooth
 - [RxAndroidBLE] (https://github.com/Polidea/RxAndroidBle) - RxAndroidBle is a powerful painkiller for Android's Bluetooth Low Energy headaches. It is backed by RxJava, implementing complicated APIs as handy reactive observables.
@@ -95,3 +100,15 @@
 - [HoloGraphLibrary](https://github.com/Androguide/HoloGraphLibrary) - Newer graphing library
 - [AChartEngine](https://github.com/ddanny/achartengine) - This is a charting software library for Android applications
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view / graph view library
+
+### Helpful Libraries
+- [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Android specific bindings [Reactive Extensions](http://reactivex.io/) to write easy event-based and asynchronous programs using observable sequences.
+- [RxJava](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+- [RetroLamda](https://github.com/evant/gradle-retrolambda) - This plugin will automatically build your java or android project with retrolambda, giving you [lambda](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html) goodness on java 6 or 7. 
+- [Guava](https://github.com/google/guava) - The Guava project contains several of Google's core libraries that we rely on in our Java-based projects: collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
+ 
+### Event Bus
+- [AndroidEventBus](https://github.com/bboyfeiyu/AndroidEventBus) - A lightweight eventbus library for android, simplifies communication between Activities, Fragments, Threads, Services, etc.
+- [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
+- [tinybus](https://github.com/beworker/tinybus) - A lightweight and simple event bus optimized for Android.
+- [Drekkar](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.
