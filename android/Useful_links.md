@@ -6,6 +6,7 @@
 - [Android Dev Reddit](https://www.reddit.com/r/androiddev/) - News for Android developers with the who, what, where when and how of the Android community.
 - [Google Developer Experts - Medium](https://medium.com/google-developer-experts) - Articles, tips/tricks and best practices by Google Developers Experts. It has posts for different technologies but you have to look for android specifically!
 - [Android Best Practices](https://github.com/futurice/android-best-practices) - Repository which has listed best practices for Beginner Android Developer
+- [Improt Java](http://importjava.org/) - Weekly Java & Android Newsletter
 
 ### Debug
 - [Stetho](http://facebook.github.io/stetho/#integrations) - A debug bridge for Android applications
@@ -18,6 +19,7 @@
 ### JSON
 - [Gson](https://github.com/google/gson) - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
 - [Jackson JSON Processor](https://github.com/FasterXML/jackson) - High-performance JSON processor.
+- [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java developed by Square Inc.
 
 ### Development tools
 - [JSON viewer](http://json.parser.online.fr/) - View JSON not response
@@ -43,7 +45,11 @@
 - [android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML.
 - [ParcelableGenerator](https://github.com/mcharmas/android-parcelable-intellij-plugin) - IntelliJ Plugin for Android Parcelable boilerplate code generation.
 - [gradle-android-javadoc-plugin](https://github.com/vanniktech/gradle-android-javadoc-plugin) - Gradle plugin to generate Javadoc
+- [findViewByMe](https://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=http%3A%2F%2Fweb.archive.org%2Fweb%2F20160803072309%2Fhttp%3A%2F%2Fjaeger.itscoder.com%2Fandroid%2F2015%2F11%2F27%2Ffind-view-by-me.html) - A plugin for android developer, with the plugin you can generate "findViewById" code quickly.
 
+### Android Studio Templates 
+- [Material-Template](https://github.com/kanytu/Android-studio-material-template) - Android-studio-material-template
+- [BaseProject-Template](https://github.com/WebMobTechnologies/AndroidTemplates) - Template for Base Project includes volley lib ,Image loading libs ,basic utils classes 
 
 ### Dependency Injection
 - [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
