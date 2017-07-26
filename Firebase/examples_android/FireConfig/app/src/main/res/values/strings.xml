@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FireConfig</string>
+    <string name="firebase_remote_config_sml">Firebase Remote Config</string>
+    <string name="imgcd_imges">Images</string>
+
+    <!--Main Fire-->
+    <string name="confirm_sml">Confirm</string>
+    <string name="password_sml">Password</string>
+    <string name="entr_password_sml">Enter password</string>
+    <string name="confirm_password_sml">Confirm Password</string>
+    <string name="entr_confirm_password_sml">Enter confirm password</string>
+    <string name="password_long_charctr_msg">Password must be %d Characters long</string>
+    <string name="password_not_match">Password does not match</string>
+    <string name="password_matchd_sml">Password matched successfully</string>
+</resources>
